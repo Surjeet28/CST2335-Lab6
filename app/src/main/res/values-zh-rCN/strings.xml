@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">实验5</string>
+    <string name="hello_message">你好世界!</string>
+    <string name="ButtonText">我是一个按钮</string>
+    <string name="login">登录</string>
+    <string name="hint">登陆名</string>
+    <string name="password">密码</string>
+    <string name="RadioButton">单选按钮</string>
+    <string name="CheckBox">复选框</string>
+    <string name="Switch"> 这个东西是做什么用的？</string>
+    <string name="dialog_message">您确定要退出吗？</string>
+    <string name="dialog_title">警告</string>
+    <string name="ok">是</string>
+    <string name="cancel">否</string>
+    <string name="SwitchOn">开关已开</string>
+    <string name="SwitchOff">开关已关</string>
+    <string name="StartChat">开始聊天</string>
+    <string name="send">发送</string>
+</resources>

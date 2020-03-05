@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lab5</string>
+    <string name="hello_message">Hello World!</string>
+    <string name="ButtonText">I\'m a button</string>
+    <string name="login">Login</string>
+    <string name="hint">login name</string>
+    <string name="password">Password</string>
+    <string name="RadioButton">RadioButton</string>
+    <string name="CheckBox">CheckBox</string>
+    <string name="Switch">What does this do?</string>
+    <string name="dialog_message">Are you sure to exit?</string>
+    <string name="dialog_title">Alert</string>
+    <string name="ok">YES</string>
+    <string name="cancel">NO</string>
+    <!---<string name="test111">111</string>-->
+    <!--<string name="test222">222</string>-->
+    <string name="SwitchOn">Switch is On</string>
+    <string name="SwitchOff">Switch is Off</string>
+    <string name="StartChat">Start Chat</string>
+    <string name="send">Send</string>
+</resources>
